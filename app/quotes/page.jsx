@@ -1,4 +1,5 @@
 'use client'
+import Footer from '@/components/Footer';
 import { useState } from 'react';
 
 const Index = () => {

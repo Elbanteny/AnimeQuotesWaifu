@@ -5,7 +5,7 @@ const Footer = () => {
     const currentYear = new Date().getFullYear();
 
     return (
-        <footer className="flex flex-col w-full bg-gray-800 text-white bottom-0 mt-10">
+        <footer className="flex flex-col w-full bg-gray-800 text-white mt-10">
             <div className="container mx-auto py-7 px-2 flex justify-between items-center">
                 <Link href={"/"} className={"flex justify-center items-center text__logo"}>
                     AnimeQuote<span className='text-[#FFC0CB]'>Waifu</span>
